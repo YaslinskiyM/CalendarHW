@@ -32,7 +32,7 @@ Technologies Used
 	• Tech 3 - JavaScript
 
 Screenshot:
-
+![image](https://user-images.githubusercontent.com/107730204/224895019-bab4c101-8371-4795-a62f-24663dd9a556.png)
 
 
 To view Live App:
