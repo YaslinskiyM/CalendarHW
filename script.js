@@ -4,7 +4,7 @@ $(function() { //this will wrap all code to ensure it doesnt run prior to he the
  
   $(".saveBtn").on("click", function() {  // Add listener for click events on the save button
     // Get the user input and the id of the containing time-block
-    var userInput = $(this).siblings(".description").val().trim();
+    var userInput = $(this).siblings(".description").val();
     var timeBlockId = $(this).closest(".time-block").attr("id");
 
     // Save the user input in local storage using the time-block id as the key
